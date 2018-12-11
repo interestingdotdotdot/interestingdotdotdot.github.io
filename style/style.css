@@ -19,6 +19,8 @@ span {
         vertical-align: middle;
 }
 .video2 {
+        height: 800px;
+        width: auto;
         float: center;
         vertical-align: middle;
 }
