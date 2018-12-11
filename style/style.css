@@ -20,6 +20,10 @@ span {
         float: center;
         vertical-align: middle;
 }
+.video3 {
+        float: right;
+        vertical-align: middle;
+}
 .video1:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
@@ -28,6 +32,13 @@ span {
   animation-iteration-count: infinite;
 }
 .video2:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+.video3:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
 
