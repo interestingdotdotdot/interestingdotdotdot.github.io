@@ -13,6 +13,8 @@ span {
         background-color: #00f9ff;
 }
 .video1 {
+        height: 200px;
+        width: auto;
         float: left;
         vertical-align: middle;
 }
@@ -21,6 +23,8 @@ span {
         vertical-align: middle;
 }
 .video3 {
+        height: 200px;
+        width: auto;
         float: right;
         vertical-align: middle;
 }
